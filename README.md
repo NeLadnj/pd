@@ -1,5 +1,6 @@
 # Giperboreya
-Šī ir labākā dokumentācija, ko es varēju izveidot bez cienījamā Staņeviča palīdzības
+Šī ir labākā dokumentācija, ko es varēju izveidot bez cienījamā Staņeviča palīdzības\
+(Labi, Staņevičs nospēlēja otro puslaiku)
 Mēs runāsim par septiņām problēmām internetā
 # 1.	Vājās paroles
 - Brrr, kā 2025. gadā vispār var iestatīt vājas paroles?🥀😒
